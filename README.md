@@ -1,1 +1,1 @@
-# Thesis--FinalYearProject
+# Final year thesis project. 
